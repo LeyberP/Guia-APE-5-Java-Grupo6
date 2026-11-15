@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class BibliotecaInteligente {
     public static void main(String[] args) {
-        String archivoNombre = "Segunda Parte\\Ejercicio 5\\libros.txt";
+        String archivoNombre = "Ejercicio05\\libros.txt";
         Scanner scanner = new Scanner(System.in);
         int opcion = 0;
 
