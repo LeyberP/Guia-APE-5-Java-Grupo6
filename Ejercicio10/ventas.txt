@@ -1,0 +1,7 @@
+Cafe americano,1.50
+Cafe latte,2.75
+Capuchino,3.00
+Croissant,2.25
+Sandwich de pollo,4.80
+Jugo de naranja,2.00
+Cheesecake,3.90
