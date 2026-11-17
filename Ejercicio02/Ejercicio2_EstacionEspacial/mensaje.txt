@@ -1,0 +1,3 @@
+ALERTA ESTACION ORBITAL ALPHA-7:
+Fallo detectado en los paneles solares del sector B.
+Se solicita envio inmediato de equipo de reparacion.
